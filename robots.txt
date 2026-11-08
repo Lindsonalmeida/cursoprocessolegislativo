@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /prints/
+
+Sitemap: https://cursoprocessolegislativo.pages.dev/sitemap.xml
